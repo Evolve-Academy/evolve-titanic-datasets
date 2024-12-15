@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = google-cloud-remote
+['remote "google-cloud-remote"']
+    url = gs://evolve-titanic-datasets/datasets
